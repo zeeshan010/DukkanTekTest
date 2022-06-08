@@ -1,0 +1,12 @@
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.csproj.AssemblyReference.cache
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.AssemblyInfoInputs.cache
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.AssemblyInfo.cs
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.csproj.CoreCompileInputs.cache
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\bin\Debug\net6.0\DukkanTekTest.Domain.deps.json
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\bin\Debug\net6.0\DukkanTekTest.Domain.dll
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\bin\Debug\net6.0\DukkanTekTest.Domain.pdb
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.dll
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\refint\DukkanTekTest.Domain.dll
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\DukkanTekTest.Domain.pdb
+C:\Working Space\Learning\DukkanTek\DukkanTekTest\DukkanTekTest.Domain\obj\Debug\net6.0\ref\DukkanTekTest.Domain.dll

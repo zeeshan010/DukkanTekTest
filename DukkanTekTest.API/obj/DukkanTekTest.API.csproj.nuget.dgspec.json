@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.API\\DukkanTekTest.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.API\\DukkanTekTest.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.API\\DukkanTekTest.API.csproj",
+        "projectName": "DukkanTekTest.API",
+        "projectPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.API\\DukkanTekTest.API.csproj",
+        "packagesPath": "C:\\Users\\888163\\.nuget\\packages\\",
+        "outputPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\888163\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj": {
+                "projectPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj"
+              },
+              "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Infrastructure\\DukkanTekTest.Infrastructure.csproj": {
+                "projectPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Infrastructure\\DukkanTekTest.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj",
+        "projectName": "DukkanTekTest.Domain",
+        "projectPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj",
+        "packagesPath": "C:\\Users\\888163\\.nuget\\packages\\",
+        "outputPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\888163\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Infrastructure\\DukkanTekTest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Infrastructure\\DukkanTekTest.Infrastructure.csproj",
+        "projectName": "DukkanTekTest.Infrastructure",
+        "projectPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Infrastructure\\DukkanTekTest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\888163\\.nuget\\packages\\",
+        "outputPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\888163\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj": {
+                "projectPath": "C:\\Working Space\\Learning\\DukkanTek\\DukkanTekTest\\DukkanTekTest.Domain\\DukkanTekTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
